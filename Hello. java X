@@ -1,0 +1,7 @@
+Class Hello
+{
+puclic static void main(String args[])
+{
+    Ssytem.out.println("Hello World");
+}
+}
